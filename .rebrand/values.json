@@ -1,0 +1,11 @@
+{
+  "reponame": "newne",
+  "productname": "pok",
+  "productdomain": "l.com",
+  "apibaseurl": "https://api.l.com",
+  "subdomain": "nexo-7be",
+  "orunWorkspace": "org_e3fae75f4f064af0b31395112e4bbfd3",
+  "githuborg": "orunbase-demo",
+  "epicSlug": "infra-baselining",
+  "domain": false
+}
